@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "side": "ragnamod_seven:block/chemical_draconium_block_side",
-    "bottom": "ragnamod_seven:block/chemical_draconium_block",
-    "top": "ragnamod_seven:block/chemical_draconium_block"
-  }
-}

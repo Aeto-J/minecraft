@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/orientable",
-  "textures": {
-    "front": "ragnamod_seven:block/advanced_collector_front_idle",
-    "side": "ragnamod_seven:block/advanced_collector_side",
-    "top": "ragnamod_seven:block/advanced_collector_top"
-  }
-}

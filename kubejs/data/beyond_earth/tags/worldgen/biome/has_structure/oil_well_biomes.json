@@ -1,9 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "twilightforest:dense_forest",
-    "twilightforest:dense_mushroom_forest",
-    "twilightforest:forest",
-    "twilightforest:mushroom_forest"
-  ]
-}

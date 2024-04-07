@@ -1,8 +1,0 @@
-{
-  "replace": true,
-  "values": [
-    "beyond_earth:fuel",
-    "beyond_earth:flowing_fuel",
-    "thermal:refined_fuel"
-  ]
-}
